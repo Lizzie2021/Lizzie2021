@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lizzie
 - 👀 I’m interested in Web Development with HTML, CSS, JavaScript, Node.js, PHP and Python.
-- 🌱 I’m currently learning React and Blockchain.
+- 🌱 I’m currently learning React and Web3 blockchain.
 - 💞️ I’m looking to collaborate on nothing just yet.
 - 📫 Can reach me on https://lizzie2021.github.io/Personal-Site/
 
