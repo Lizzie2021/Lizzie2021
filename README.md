@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lizzie
-- 👀 I’m interested in Web Development with HTML, CSS, JavaScript, React, Node.js, PHP and Python.
+- 👀 I’m interested in Web Development with HTML, CSS, JavaScript, React, Node.js, PHP, C# and Python.
 - 🌱 I’m currently learning those skills.
 - 📫 Can reach me on https://lizzie2021.github.io/Personal-Site/
 
